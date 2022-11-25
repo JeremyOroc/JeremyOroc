@@ -1,4 +1,4 @@
-### Greetings!
+### Welcome to my GitHub!
 
 #### I am a Computer Science Undergraduate who
 - :student: is currently studying at John Abbott College
