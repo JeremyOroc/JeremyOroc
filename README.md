@@ -1,7 +1,8 @@
 ### Greetings!
 
 #### I am a Computer Science Undergraduate who
-- :books: is currently studying at John Abbott College
+- :student: is currently studying at John Abbott College
+- :school: tutors other students in my program
 - :fire: is passionate about software, web and game development
 - :muscle: likes going to the gym often
 - :musical_note: loves listening and exploring different music
