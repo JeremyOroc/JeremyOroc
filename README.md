@@ -8,7 +8,7 @@
 
 :mailbox_with_mail: Reach me at : jeremy.oroc@gmail.com or [LinkedIn](https://www.linkedin.com/in/jeremy-oroc-070bb5249/)
 
-### Languages and Tools :
+#### Languages and Tools :
 - C#, C++, XAML, 
 - JavaScript, HTML, CSS, Node.js, REST API, 
 - SQL, MySQL, SQLite
