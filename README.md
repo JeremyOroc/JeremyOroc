@@ -4,7 +4,7 @@
 - :student: is currently studying at John Abbott College
 - :school: tutors other students in my program
 - :fire: is passionate about software, web and game development
-- :muscle: likes going to the gym often
+- :muscle: goes to the gym often
 - :musical_note: loves listening and exploring different music
 
 :mailbox_with_mail: Reach me at : jeremy.oroc@gmail.com or [LinkedIn](https://www.linkedin.com/in/jeremy-oroc-070bb5249/)
