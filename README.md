@@ -1,8 +1,8 @@
 ### Welcome to my GitHub!
 
-#### I am a Computer Science Undergraduate who
-- :mortar_board: is currently studying at John Abbott College
-- 🏫 tutors other students in my program
+#### I am a Software Engineering Undergraduate who
+- :mortar_board: is currently studying at Concordia University
+- 🏫 has tutored other students the Computer Science program at John Abbott College
 - 🔥 is passionate about software, web and game development
 - 💪 enjoys going to the gym
 - 🎵 loves listening and exploring different music
